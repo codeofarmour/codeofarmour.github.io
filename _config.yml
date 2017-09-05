@@ -1,0 +1,21 @@
+# Site settings
+title:  castle = "my_code"
+header-img: img/home-bg.png
+email: codeofarmour@outlook.com
+copyright_name: codeofarmour
+description: > # this means to ignore newlines until "baseurl:"
+  puts "My castle is my #{castle}"
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  codeofarmour
+learn_profile: codeofarmour
+email_username: codeofarmour@outlook.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
