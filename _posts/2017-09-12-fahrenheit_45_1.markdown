@@ -10,7 +10,7 @@ What am I doing here? Why, at the age of 45, have I decided to reprogram my prof
 
 Honestly, learning to code has been cathartic, and I feel as though I'm not only developing a new skill set, but I'm also rewriting my own personal code. Learning to think programmatically has already made a profound impact on my life, and I've only just begun to learn. I love the possibility of creating something from nothing, and writing code is an exciting, creative way to share my thoughts and ideas with the world.
 
-Wherever this path leads, I plan to use my new talent for good. I imagine doing work for non-profits or startups. I'm so excited to emabark upon this journey! Many thanks to the Flatiron School for helping me realize this dream.
+Wherever this path leads, I plan to use my new talent for good. I imagine doing work for non-profits or startups. I'm so excited to embark upon this journey! Many thanks to the Flatiron School for helping me realize this dream.
 
 
 
