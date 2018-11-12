@@ -1,15 +1,14 @@
 # Site settings
+author: Terri Squire
 title:  castle = "my_code"
 header-img: img/home-bg.png
 email: codeofarmour@outlook.com
-copyright_name: codeofarmour
+copyright_name: Terri Squire
 description: > # this means to ignore newlines until "baseurl:"
   puts "My castle is my #{castle}"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  codeofarmour
-learn_profile: codeofarmour
-email_username: codeofarmour@outlook.com
 
 # Build settings
 markdown: kramdown
